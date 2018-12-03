@@ -1,17 +1,4 @@
-/**
-*             SIMON GAME
-*         for freeCodeCamp.com
-*
-*           by EmAnt - 2015
-*
-*     Simple Game using CSS3 & jQuery
-*
-***********************************************
-* !!! It uses the new Web Audio API !!!
-* You Need an up-to-date browser.
-* Tested on Firefox, Chrome, Safari
-***********************************************
-*/
+
 
 
 $(document).ready(function(){
